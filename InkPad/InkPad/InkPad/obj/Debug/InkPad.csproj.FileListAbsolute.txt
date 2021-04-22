@@ -1,0 +1,15 @@
+C:\Root\Learning\InkPad\InkPad\InkPad\bin\Debug\InkPad.exe.config
+C:\Root\Learning\InkPad\InkPad\InkPad\bin\Debug\InkPad.exe
+C:\Root\Learning\InkPad\InkPad\InkPad\bin\Debug\InkPad.pdb
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\InkPad.csprojAssemblyReference.cache
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\MainWindow.g.cs
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\App.g.cs
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\InkPad_MarkupCompile.cache
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\InkPad_MarkupCompile.lref
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\MainWindow.baml
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\InkPad.g.resources
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\InkPad.Properties.Resources.resources
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\InkPad.csproj.GenerateResource.cache
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\InkPad.csproj.CoreCompileInputs.cache
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\InkPad.exe
+C:\Root\Learning\InkPad\InkPad\InkPad\obj\Debug\InkPad.pdb
